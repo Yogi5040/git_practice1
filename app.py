@@ -14,8 +14,6 @@ def cal():
     
 cal()
 
-def greeting():
-    print('Code developed on branch dev2')
 #code on dev1 branch
 def greet():
     print('The code developed on dev1 branch')
