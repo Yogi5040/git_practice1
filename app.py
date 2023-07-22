@@ -13,3 +13,6 @@ def cal():
         print(b/c)
     
 cal()
+
+def greeting():
+    print('Code developed on branch dev2')
